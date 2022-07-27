@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-27T20:20:22" hostname="aleksandr-Aspire-E5-575G" time="0.079">
+  <properties/>
+  <testcase name="testMinus()" classname="CalculatorsTest" time="0.055"/>
+  <testcase name="testPlus()" classname="CalculatorsTest" time="0.014"/>
+  <testcase name="testMultiply()" classname="CalculatorsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
